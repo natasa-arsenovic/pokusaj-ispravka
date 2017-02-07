@@ -1,0 +1,11 @@
+/* CSS Document */
+
+<style type="text/css>
+body{ font:24px Geneva, Arial, Helvetica, sans-serif color:black; background-image:url(slike/classroom-laptop-computer-laptop-computers-in-the-classroom-db8b8bdd25886d7b.jpg); background-repeat:no-repeat; background-position:left;}
+
+ul#navlist{margin-left:0; padding-left:0; white-space:nowrap;}
+#navlist li  {display: inline; list-style-type: none;}
+#navlist a{padding: 5px 50px 30px 30px;}
+#navlist a:link, #navlist a:visited{color:white; background:#FFCC00; text-decoration:none;}
+#navlist a: hover {color:#FF9900 background-color:#99FF66 text-decoration:none;}
+</style>

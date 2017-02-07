@@ -50,7 +50,7 @@ $_SESSION['prijavljen']=true;
       <ul class="dropdown-menu" role="menu">
         <li><a href="Grupa za Metodiku nastave racunarstva.html">Grupa za Metodiku nastave racunarstva</a> </li> 
 		<li><a href="Grupa za Informacione sisteme.html">Grupa za Informacione sisteme</a></li>
-   		<li><a href="Grupa za istraživanje podataka.html">Grupa za Istraživanje podataka</a></li>                        
+   		<li><a href="Grupa za istra?ivanje podataka.html">Grupa za Istra?ivanje podataka</a></li>                        
       </ul>
     </li>
     
@@ -71,3 +71,4 @@ $_SESSION['prijavljen']=true;
 </div>
 </body>
 </html>
+
